@@ -1,0 +1,5 @@
+
+1. Create DAX calculated columns in Microsoft Power BI Desktop to generate new values for a list of tallest buildings.
+This exercise is provided to allow potential course delegates to choose the correct Wise Owl Microsoft 
+training course, and may not be reproduced in whole or in part in any format without the prior written 
+consent of Wise Owl.
