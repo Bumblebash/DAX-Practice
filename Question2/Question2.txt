@@ -1,0 +1,1 @@
+Use the REMOVEFILTERS function in DAX to modify the filter context of measures in Power BI Desktop
