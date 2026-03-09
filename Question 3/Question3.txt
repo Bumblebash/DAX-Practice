@@ -1,0 +1,4 @@
+
+i) Combine criteria using FILTER to sum only certain purchases
+ii) Copy the formula for this measure, and use this as a basis to create a new measure called Sales in 2018.  
+This measure should use the FILTER function to only sum sales where the year for the purchase date is 2018.
